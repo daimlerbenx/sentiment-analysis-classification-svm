@@ -60,10 +60,4 @@ The script will output:
 - Metrics for model performance.
 - A confusion matrix plot.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 Feel free to adjust any details based on your specific needs or preferences!
